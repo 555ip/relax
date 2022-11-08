@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="TVRivers" tvg-logo="" group-title="relax" radio="false",TVRivers
+..\\relax/TVRivers.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TVAurora" tvg-logo="" group-title="relax" radio="false",TVAurora
+.\\https://555ip.github.io/relax/TVAurora.m3u8
